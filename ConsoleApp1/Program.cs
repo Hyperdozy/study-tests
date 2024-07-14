@@ -1,5 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, my friends (no more racism)"); Console.WriteLine("Hello, my friends (no more racism)");
-Console.WriteLine("Hello, my friends (no more racism)"); Console.WriteLine("Hello, my friends (no more racism)");
-Console.WriteLine("Hello, my friends (no more racism)"); Console.WriteLine("Hello, my friends (no more racism)");
-Console.WriteLine("Hello, my friends (no more racism)"); Console.WriteLine("Hello, my friends (no more racism)");
+Console.WriteLine("Hello, my friends (no more racism)");
